@@ -1,0 +1,71 @@
+#main{
+	text-align: center;
+	background-color: #ffffcc;
+	font-family: Arial;
+			}
+
+#title{
+	font-size: 50;
+	position: relative;
+	padding-top: 40px;
+	padding-bottom: 0;
+			}
+
+#img-div{
+	background-color: #ffffff;
+	margin: 10px;
+	padding: 30px;
+			}
+
+#image{
+	height: auto;
+	max-width: 100%;
+	display: block;
+	margin: auto;	
+			}
+
+#img-caption{
+	margin-top: 2em;
+}
+
+#tribute-info{
+	padding: 0;
+			}
+
+#tribute-link{
+	margin: auto;			
+			}
+
+#timeline {
+	display: flex;
+	justify-content: center;
+}
+
+#quote {
+	font-style: italic;
+	text-align: justify;
+	width: 50%;
+	margin: auto auto;
+}
+
+ul {
+	text-align: left;
+	padding: 4em;
+}
+
+li {
+	margin: 20px;
+}
+
+h2 {
+	position: absolute;
+}
+
+p {
+	padding: 20px;
+}
+
+
+
+
+
